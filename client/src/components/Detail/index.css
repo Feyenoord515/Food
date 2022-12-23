@@ -1,0 +1,8 @@
+.lista{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+}

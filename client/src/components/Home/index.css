@@ -1,0 +1,30 @@
+.bordecito{
+    display: flex;
+    position:static;
+    height: 30px;
+  
+    /* border-left: 4px solid black;
+    border-right: 3px solid black; */
+    width: 100%; ;
+    
+    background-color:  rgb(92, 69, 21);
+    justify-content: space-around;
+    align-items: center;
+}
+.borde{
+    display: flex;
+    position:static;
+    height: 40px;
+    
+    /* border-left: 4px solid black;
+    border-right: 3px solid black; */
+    width: 100%; ;
+    
+    background-color:  rgb(219, 173, 72);
+    justify-content: space-around;
+    align-items: center
+}
+
+.cuerpo{
+    background-color: rgb(14, 14, 13);
+}
